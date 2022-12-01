@@ -1,0 +1,7 @@
+1. install tailwind:
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+2. install react icon
+npm install react-icons --save
